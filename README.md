@@ -6,16 +6,16 @@
 ## This music player project involves creating a digital application that allows users to play, manage, and organize their music files. It typically includes features such as play, pause, volume control, and a playlist management system. Below is an overview of the key components and features of this music player project using HTML, CSS, and JavaScript.
 
 # HTML Structure:
-## Create the basic structure of your music player using HTML.
-## Include elements for the audio player itself, playback controls, and a playlist.
+### Create the basic structure of your music player using HTML.
+### Include elements for the audio player itself, playback controls, and a playlist.
 
 # CSS Styling:
-## Style the appearance of the music player using CSS.
-## Create a visually appealing layout for controls and playlist.
+### Style the appearance of the music player using CSS.
+### Create a visually appealing layout for controls and playlist.
 
 # JavaScript Logic:
-## Implement the functionality of the music player using JavaScript.
-## Handle events like play, pause and volume control.
+### Implement the functionality of the music player using JavaScript.
+### Handle events like play, pause and volume control.
 
 # Additional Features:
  ## 1 Volume Control:
